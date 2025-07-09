@@ -1,0 +1,13 @@
+Calorie Estimation of Food and Beverages using Deep Learning.
+
+Algorithm / Model Used: MobileNet Architecture.
+
+Training Accuracy:97.00%.
+Validation Accuracy of 98.00%.
+
+Dataset: 
+https://www.kaggle.com/datasets/jayaprakashpondy/food-101-dataset
+
+
+
+

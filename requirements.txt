@@ -1,0 +1,18 @@
+pip install numpy==1.20.3
+pip install Pillow==8.4.0
+pip install Keras==2.9.0
+pip install tensorflow==2.9.0
+pip install Flask==2.1.2
+pip install pandas==1.4.3
+pip install matplotlib==3.4.3
+
+python 3.8 (64 bit)
+
+
+install Visual C++  
+  
+	Link - https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+        dowmload--- x64: vc_redist.x64.exe
+
+
+https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
